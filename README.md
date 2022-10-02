@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Pious Omm Prakash</h1>
-<h3 align="center">A aspiring coder and a passionate editor from India.</h3>
+<h3 align="center">A aspiring coder and a UI/UX designer from India.</h3>
 
-- 🌱 I’m currently learning **C and C++ programming languages.**
+- 🌱 I’m in process to improve my skills in various domain espicially in UI/UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
