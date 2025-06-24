@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/prince03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/PrinceX04" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/__prince.x__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.behance.net/princeprakash9" target="_blank"><img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.behance.net/princeprakash5" target="_blank"><img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://twitter.com/heyprince_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
@@ -66,7 +66,7 @@
 ### 🌐 Personal Portfolio
 
 - 🖥️ **Website:** [Prince](https://prince-portfoliosite.netlify.app/)
-- 🎨 **UI/UX Designs:** [Behance – princeprakash9](https://www.behance.net/princeprakash9)
+- 🎨 **UI/UX Designs:** [Behance – princeprakash9](https://www.behance.net/princeprakash5)
 - 💻 **Code Repos:** [GitHub – PrinceX04](https://github.com/PrinceX04)
 
 ---
