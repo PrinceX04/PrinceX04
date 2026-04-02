@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Product Engineer Intern** at *Neophyte Ambient Intelligence*
+- 🔭 Currently working as a **Product Engineer** at *Neophyte Ambient Intelligence*
 - 💡 My focus: **LLMs**, **VLMs**, **Auto-scaling pipelines**, **Orchestration Pipelines**, **AWS-to-Azure cloud migrations**
 - 🎨 I recently completed a **UI/UX Internship** at *ezTech IT Solutions*, designing 20+ polished UI screens
 - 💬 I love collaborating on ML + Design crossover products
